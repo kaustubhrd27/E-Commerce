@@ -1,0 +1,18 @@
+[submodule "ProductService"]
+	path = ProductService
+	url = https://github.com/kaustubhrd27/ProductService
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/kaustubhrd27/UserService
+[submodule "PaymentService"]
+	path = PaymentService
+	url = https://github.com/kaustubhrd27/PaymentService
+[submodule "APIGateWay"]
+	path = APIGateWay
+	url = https://github.com/kaustubhrd27/APIGateWay
+[submodule "ServiceDiscovery"]
+	path = ServiceDiscovery
+	url = https://github.com/kaustubhrd27/ServiceDiscovery
+[submodule "EmailService"]
+	path = EmailService
+	url = https://github.com/kaustubhrd27/EmailService
